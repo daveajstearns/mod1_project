@@ -35,6 +35,16 @@ Websites used:
 
 The types of data collected from these websites are movie titles, genres, popularity, vote counts, movie language, world-wide revenue. We analyed this data by making detailed graphs showing information that is useful to the company's decison making process. This data is vital for a company to have before making decisons about their movie. 
 
+# Libraries Used
+
+* Pandas
+* NumPy
+* Matplotlib
+* Json
+* Beautiful Soup
+* Seaborn
+* Datetime
+
 # Data Analysis 
 
 Through the data we colleceted, we were able to make conclusions about what the company should prepare for before making their movie. 
@@ -46,7 +56,6 @@ Through the data we colleceted, we were able to make conclusions about what the 
     The data shows that the correlation value of a higher vote count has a good probability to equate to a more popular movie. We can conclude from this that the more exposure a movie has, the more popular it is likley to be. 
 * Profit Velocity
     Profit velocity shows the amount of money made for how long the movie has been released ulitmately showing profit per day. It also shows how much money you should expect to make over a certian period of time. Another conclusion that can be made from this is that profit velocity shows what movies do well over time and have sustained success. As a CEO of a company, they can see what they should expect to make over a period of time, and what movies have sustained success and try to follow what makes them succesful. 
-    
     
 # Data Visulizations
 

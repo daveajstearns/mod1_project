@@ -1,3 +1,8 @@
+# Module 1 Final Project
+
+# Microsoft Movie Presentation
+
+Team Members: David Stearns and Chris Fiorentine
 
 # Introduction
 
@@ -57,7 +62,7 @@ Through the data we colleceted, we were able to make conclusions about what the 
 
 Through data collection, data analysis, and using data vizulizations, we have concluded that a company should not enter the movie industry expecting immediate and large revenues. A substantial amount of money can be made in the indusrty however the average is much lower. We also concluded that a large vote-count has a high popularity correlation, however that does not mean a movie will do well at the box office. A movie that has a high revenue and a high popularity rating is rare and companies should be prepared for that. Finally, we have concluded that a company should invest in machine learning to find out what makes movies profitable for a long period of time. 
 
-Team Members: David Stearns and Chris Fiorentine
+
 
 
 

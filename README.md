@@ -50,7 +50,13 @@ Through the data we colleceted, we were able to make conclusions about what the 
     
 # Data Visulizations
 
+https://github.com/daveajstearns/mod1_project/blob/chris-fiorentine/profit-velocity.png
 
+https://github.com/daveajstearns/mod1_project/blob/chris-fiorentine/Top-grossing-movies.png 
+
+https://github.com/daveajstearns/mod1_project/blob/chris-fiorentine/revenue-to-popularity.png
+
+https://github.com/daveajstearns/mod1_project/blob/chris-fiorentine/vote-count-popularity.png
 
 # Recomendations
 
@@ -60,7 +66,7 @@ Through the data we colleceted, we were able to make conclusions about what the 
 
 # Conclusion
 
-Through data collection, data analysis, and using data vizulizations, we have concluded that a company should not enter the movie industry expecting immediate and large revenues. A substantial amount of money can be made in the indusrty however the average is much lower. We also concluded that a large vote-count has a high popularity correlation, however that does not mean a movie will do well at the box office. A movie that has a high revenue and a high popularity rating is rare and companies should be prepared for that. Finally, we have concluded that a company should invest in machine learning to find out what makes movies profitable for a long period of time. 
+Through data collection, data analysis, and using data visulizations, we have concluded that a company should not enter the movie industry expecting immediate and large revenues. A substantial amount of money can be made in the indusrty however the average is much lower. We also concluded that a large vote-count has a high popularity correlation, however that does not mean a movie will do well at the box office. A movie that has a high revenue and a high popularity rating is rare and companies should be prepared for that. Finally, we have concluded that a company should invest in machine learning to find out what makes movies profitable for a long period of time. 
 
 
 
